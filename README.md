@@ -23,9 +23,3 @@ This project extracts and analyzes over **10,000+ tracks** from Spotify using th
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
-
-### **2️⃣ Install Dependencies**
-```bash
-Make sure you have Python installed. Then install the required libraries:
-
-pip install spotipy pandas
