@@ -1,5 +1,7 @@
 # Spotify Data Analysis Project 🎵📊  
 
+Before anything, I am still upgrading it..
+
 ## **Overview**  
 This project extracts and analyzes over **10,000+ tracks** from Spotify using the **Spotify Web API** to find trends in user listening habits and genre preferences. The insights are visualized using **Tableau** for better understanding and recommendations.  
 
@@ -62,7 +64,3 @@ python extract_spotify_data.py
 ## **Contributing**  
 Feel free to open issues or submit PRs to improve this project! 🚀  
 ```
-
----
-
-This **Markdown file** is fully formatted and ready to use in GitHub. Let me know if you need changes! 🚀🎵
